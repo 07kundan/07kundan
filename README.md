@@ -5,8 +5,7 @@
 <h3 align="center">Frontend Developer from India</h3>
 
 # 💫 About Me:
-As a student of computer application. Eager to apply my knowledge in a professional setting. I am a quick learner,<br>adaptable, and enthusiastic about contributing to innovative projects. Continuously learning and adapting to new<br>technologies.
-
+As a student of computer application. Eager to apply my knowledge in a professional setting.
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kundan.kr_07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kun_dan.kr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/07kundan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@kundan_X_07) 
