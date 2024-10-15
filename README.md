@@ -1,8 +1,6 @@
 
-![dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7](https://github.com/07kundan/07kundan/assets/144532326/08e77696-5d3a-4e2a-93f7-43bb14f56858)
-
 <h1 align="center">Hi 👋, I'm Kundan</h1>
-<h3 align="center">Frontend Developer from India</h3>
+<h3 align="center">FullStadck Developer from India</h3>
 
 # 💫 About Me:
 As a student of computer application. Eager to apply my knowledge in a professional setting.
